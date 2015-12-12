@@ -1,3 +1,3 @@
 <div class="header">
-	<h1>JMS - Web Calculator</h1>
+	<p>JMS - Web Calculator</p>
 </div>
