@@ -1,4 +1,4 @@
-# web-calculator-cms
+# web-calculator
 A maven parent project with child module.
 
 Java 1.7, Maven 3, and Git must be installed before running this project:
